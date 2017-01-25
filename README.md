@@ -25,7 +25,7 @@ And just copy the 'Log.swift' file into your xcproject or xcworkspace.
 
 ## Usage
 
-If your write the code like this, 
+If you code like this, 
 
 ![Codes](https://github.com/yangjehpark/iOS-Swift-Log/blob/master/iOS-Swift-Log-codes.png)
 
